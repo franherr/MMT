@@ -14,6 +14,7 @@ Here is a brief summary of methods for this program:
       -mod()
       -mult()
       -add()
+      
    Printing into a file:
       -print(Printstream Output)
          - prints out mod, mult, add

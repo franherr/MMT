@@ -6,4 +6,4 @@ Then chose a multiplier 'a' and connect each point 'p' to 'ap mod m' with a line
 For more information on modular multiplication tables, see https://www.youtube.com/watch?v=KlHmuKqpJl0.
 
 This project will allow the user to draw whichever modular multiplication table they wish to, with many style settings.
-To get started, look at the 'MMTUser'.
+To get started, look at the 'MMTUser' file.

@@ -27,7 +27,7 @@ The options for drawing a table are detailed below:
       -start: draws all the lines eminating from points between start and mod - 1
          -[default: 0]
          
-      -count-by: draws all the lines eminating from points p such that p = start mod (count-by)
+      -count-by: draws all the lines eminating from points p such that p = 'start' (mod 'count-by')
          -[default: 1]
          
       Example: If the user wants to draw lines only eminating from odd points, they would set

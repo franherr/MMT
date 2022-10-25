@@ -4,12 +4,15 @@ import java.io.*;
 /* This is a program to allow the user to create and draw Modular Multiplication Tables.
 Once run, this program prompts the user to input information to create a desired table. 
 It asks for the modulus (m), multiplier (a), and addValue (add).
+The data should be inputted as three numbers split by spaces.
+   e.g. 100 2 0
 The modulus determines how many equidistant points are on the circumference of the circle.
 The multiplier and addValue determine how each line is drawn. For every point 'p' around the circle,
 there is a line segment from 'p' to 'a*p + add (mod m)'. For standard tables, set 'add = 0'.
 
 Once 'm', 'a', and 'add' are chosen, the user is asked how they want the table to be drawn. 
 They can access advanced options and change the size, start, and count-by. 
+   (The standard settings for these are 400, 0, and 1 respectively.)
 These parameters change what is being drawn. 
 They can also access special presentation. 
 This option encompasses dots, labels, rainbow, directed lines, night vision, and gif. 

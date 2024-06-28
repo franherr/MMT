@@ -16,6 +16,7 @@ They can access advanced options and change the size, start, and count-by.
 These parameters change what is being drawn. 
 They can also access special presentation. 
 This option encompasses dots, labels, rainbow, directed lines, night vision, and gif. 
+If the user asks to draw a gif, they will be asked how many miliseconds of rest. The default is 10.
 The program will allow the user to draw the created table until they no longer want to. Then, it will
 allow the user to draw any other table that they wish. */
 
